@@ -1,3 +1,4 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahardikamaulana&theme=transparent&hide_border=true&locale=id&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ### Hi there 👋
 
 <!--
